@@ -20,6 +20,7 @@ struct {
 
 
 ## References
-1. https://www.youtube.com/watch?v=1dOCHwf8zVQ
+1. [RFC-6520: Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS) Heartbeat Extension](https://tools.ietf.org/html/rfc6520)
+2. https://www.youtube.com/watch?v=1dOCHwf8zVQ
 2. [Bug fix commit](https://github.com/openssl/openssl/commit/731f431497f463f3a2a97236fe0187b11c44aead)
 
